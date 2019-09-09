@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxikosten 2", "Taxikosten 2\Taxikosten 2.csproj", "{4C39D303-CB78-4C04-A82D-BE1A53328179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C39D303-CB78-4C04-A82D-BE1A53328179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C39D303-CB78-4C04-A82D-BE1A53328179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C39D303-CB78-4C04-A82D-BE1A53328179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C39D303-CB78-4C04-A82D-BE1A53328179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83F1AE0-0BEB-4A05-A736-49300E8CED3A}
+	EndGlobalSection
+EndGlobal
